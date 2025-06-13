@@ -80,3 +80,8 @@ Sales Summary:
 0   Apples         70    175.0
 1  Bananas         80     80.0
 2 Cherries         45    135.0
+
+
+bar chart -
+
+![image](https://github.com/user-attachments/assets/98836b41-a5c7-4522-bc14-a45a5d60a899)
